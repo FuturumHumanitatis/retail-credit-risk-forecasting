@@ -1,0 +1,9 @@
+loan_id,report_date,product_type,balance,dpd,interest_rate,region,is_default
+1,2023-01-01,consumer,120000,0,0.19,Moscow,0
+1,2023-02-01,consumer,118500,10,0.19,Moscow,0
+1,2023-03-01,consumer,117000,35,0.19,Moscow,0
+2,2023-01-01,credit_card,45000,0,0.29,SPB,0
+2,2023-02-01,credit_card,47000,95,0.29,SPB,1
+3,2023-01-01,mortgage,3500000,0,0.11,Moscow,0
+3,2023-02-01,mortgage,3490000,0,0.11,Moscow,0
+3,2023-03-01,mortgage,3480000,5,0.11,Moscow,0
