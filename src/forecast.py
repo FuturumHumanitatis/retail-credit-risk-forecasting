@@ -4,7 +4,7 @@ from features import build_features
 from model import train_pd_model
 
 
-LGD = 0.45  # фиксированная LGD для примера
+LGD = 0.45  #наглядно
 
 
 def run_forecast():
